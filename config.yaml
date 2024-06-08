@@ -1,0 +1,15 @@
+path: D:\roboflowV2\
+train: train\images
+val: valid\images
+
+names:
+  0: air-hole,
+  1: bite-edge,
+  2: broken-arc,
+  3: hollow,
+  4: through,
+  5: tumor,
+
+
+
+
